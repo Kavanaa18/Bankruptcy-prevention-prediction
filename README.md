@@ -11,9 +11,9 @@ This project requires the following Python libraries:
 
 * pandas (data manipulation)
 * numpy (numerical computations)
-scikit-learn (machine learning)
-matplotlib (data visualization) (optional)
-seaborn (data visualization) (optional)
+* scikit-learn (machine learning)
+* matplotlib (data visualization) (optional)
+* seaborn (data visualization) (optional)
 
 # Data
 The data should ideally include various financial ratios and metrics that can indicate financial health.
