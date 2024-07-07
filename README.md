@@ -9,8 +9,8 @@ This project utilizes machine learning techniques to analyze financial data of c
 # Dependencies
 This project requires the following Python libraries:
 
-pandas (data manipulation)
-numpy (numerical computations)
+* pandas (data manipulation)
+* numpy (numerical computations)
 scikit-learn (machine learning)
 matplotlib (data visualization) (optional)
 seaborn (data visualization) (optional)
