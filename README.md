@@ -23,14 +23,15 @@ The data should ideally include various financial ratios and metrics that can in
 
 The data will need to be preprocessed before training the model. This may involve:
 
-Handling missing values
-Feature scaling
-Encoding categorical variables
+* Checking for missing values
+* Outlier detection
+* Feature scaling
+* Encoding categorical variables
 
 # Models
 This project explores different machine learning models for bankruptcy prediction.They are:
 
-Logistic Regression
-KNN
-Support Vector Machines (SVM)
+* Logistic Regression
+* KNN
+* Support Vector Machines (SVM)
 The code allows for experimentation with different models and hyperparameter tuning to achieve the best performance.
