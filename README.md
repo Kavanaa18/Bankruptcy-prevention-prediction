@@ -35,3 +35,8 @@ This project explores different machine learning models for bankruptcy predictio
 * KNN
 * Support Vector Machines (SVM)
 The code allows for experimentation with different models and hyperparameter tuning to achieve the best performance.
+
+
+
+![Screenshot 2024-07-04 114722](https://github.com/Kavanaa18/Bankruptcy-prevention-prediction/assets/96811033/97ff6f31-49e5-40f1-877d-26b12d7f92b2)
+
